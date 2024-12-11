@@ -178,9 +178,9 @@ public:
         vector<string> intro = {
             "\n╔══════════════════════════════════════╗",
             "║             SUB-LEVEL                ║",
-            "║         Livello 15 - 1989           ║",
+            "║         Livello 15 - 1989            ║",
             "╚══════════════════════════════════════╝",
-            "\nDedicato alla piccola",
+            "\nDedicato alla mia piccola",
             "\"Che i tuoi sogni ti portino sempre in luoghi meravigliosi\"",
             "\nCreato da Jashin L.",
             "\nLe luci fluorescenti sfarfallano...",
